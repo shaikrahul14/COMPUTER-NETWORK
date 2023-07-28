@@ -1,0 +1,3 @@
+run the command "python3 server.py"
+open another terminal " python3 client.py "
+enter file name " file_1.txt " 

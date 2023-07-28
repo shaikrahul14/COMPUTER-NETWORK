@@ -1,0 +1,10 @@
+How to run code  code: 
+First the run the command ”python3 server.py”
+Enter port number:4567
+Next Run “python 3 client.py”
+Select 1 for ipv4
+Select 2 for ipv6
+Hostname :localhost
+Port number:4567
+Enter any messages.
+“Quit” to detach the connection
